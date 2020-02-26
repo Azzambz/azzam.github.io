@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Azzam B.Z"
+  name             : "Azzam Badruz Zaman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** BAcot."
+  bio              : "Mahasiswa Polban"
   location         : "Dormitory"
-  email            :
+  email            : "azzam.baadruz.tif419@polban.ac.id"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
